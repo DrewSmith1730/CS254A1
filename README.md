@@ -1,4 +1,6 @@
-# CS 254 Assignment 3
+# CS 254 Assignment 1
 
-## This is the fourth assignment in my Machine learning class at the University of Vermont. The entire year we were doing this work using pythons sklearn library
-### Data frame to fromat the data for the tree creation and visual as well
+## This is the first assignment for my Machine learning class at The University of Vermont that I took during my senior year their.
+## This being the first assignment of the class it is mostly a get comfortable with the coding environment and the basic libraries.
+## Using basic numpy, matplotlib, and pandas
+## Also doing the basics of matrix's and arrays along with these libraries.
